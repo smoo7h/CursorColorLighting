@@ -1,0 +1,17 @@
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\bin\Debug\ChangeLightColorMousePointer.exe.config
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\obj\Debug\ChangeLightColorMousePointer.csproj.App.config
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\obj\Debug\ChangeLightColorMousePointer.csprojResolveAssemblyReference.cache
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\bin\Debug\ChangeLightColorMousePointer.exe
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\bin\Debug\ChangeLightColorMousePointer.pdb
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\bin\Debug\Q42.HueApi.dll
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\bin\Debug\Q42.HueApi.NET.dll
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\bin\Debug\Q42.HueApi.xml
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\bin\Debug\Q42.HueApi.NET.xml
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\obj\Debug\ChangeLightColorMousePointer.exe
+C:\Users\matt\Documents\Development\ChangeLightColorMousePointer\ChangeLightColorMousePointer\obj\Debug\ChangeLightColorMousePointer.pdb
